@@ -14,8 +14,8 @@
 | Підгрупа | КН-42 |
 | Тема проєкту | 4. Planning poker з історією сесій, статистикою розкиду і експортом у трекер |
 | Варіант вхідних умов | V11 |
-| Трекер | `lr04_kanban/README.md` у цьому репозиторії (без зовнішнього інструмента) |
-| Дошка | [lr04_kanban/README.md](https://github.com/DavydShmyhelskyi/pm-2026-kn42-shmyhelskyi/blob/main/lr04_kanban/README.md) |
+| Трекер | [GitHub Projects: беклог і спринти](https://github.com/users/DavydShmyhelskyi/projects/3) |
+| Дошка | [GitHub Projects: дошка роботи над курсом (ЛР4)](https://github.com/users/DavydShmyhelskyi/projects/4) |
 | Валюта проєкту | |
 | Contingency, % | |
 

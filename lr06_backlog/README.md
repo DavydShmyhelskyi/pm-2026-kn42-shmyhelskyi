@@ -6,10 +6,10 @@ Planning poker з історією сесій, статистикою розки
 
 ## 1. Трекер
 
-Посилання на дошку: [lr04_kanban/README.md](https://github.com/DavydShmyhelskyi/pm-2026-kn42-shmyhelskyi/blob/main/lr04_kanban/README.md)
-— дошка ведеться Markdown-таблицею в цьому ж репозиторії, без зовнішнього
-трекера (курс прямо дозволяє: перевіряється CSV і те, що видно на дошці, а
-не інструмент).
+Посилання на трекер: [GitHub Projects, беклог і спринти](https://github.com/users/DavydShmyhelskyi/projects/3)
+— усі 17 історій цього файла з класом MoSCoW, `rank`, релізом і спринтом.
+Трекер заведено 2026-10-16; до того дати історій спринта 1 велися тільки в
+`lr03_sprint_simulation/sprints.md`, і їх перенесено в трекер без змін.
 
 Історії спринтів беруться з цього беклогу за ключами `S-NN` і записуються в
 `lr03_sprint_simulation/sprints.md` із трьома датами. Перший реліз
