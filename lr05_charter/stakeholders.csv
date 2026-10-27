@@ -1,6 +1,6 @@
 stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,owner
 ST-01,Замовник від кафедри,кафедра управління проєктами й Agile,high,high,supporter,manage_closely,PM
 ST-02,Фасилітатори занять,кафедра управління проєктами й Agile,high,low,supporter,keep_informed,BA
-ST-03,Служба інформаційної безпеки академії,академія,low,high,blocker,keep_satisfied,PM
+ST-03,Служба інформаційної безпеки академії,академія,high,high,blocker,manage_closely,PM
 ST-04,Студенти-учасники сесій,кафедра управління проєктами й Agile,high,low,supporter,keep_informed,BA
 ST-05,Інша кафедра-спостерігач,суміжна кафедра Agile-курсів,high,low,neutral,keep_informed,PM
