@@ -41,3 +41,9 @@ S-17,1,pessimistic,3
 S-18,1,optimistic,2
 S-18,1,likely,3
 S-18,1,pessimistic,8
+S-02,2,optimistic,1
+S-02,2,likely,2
+S-02,2,pessimistic,3
+S-19,1,optimistic,1
+S-19,1,likely,1
+S-19,1,pessimistic,3
