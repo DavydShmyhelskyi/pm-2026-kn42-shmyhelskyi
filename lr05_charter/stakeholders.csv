@@ -4,3 +4,8 @@ ST-02,Фасилітатори занять,кафедра управління 
 ST-03,Служба інформаційної безпеки академії,академія,high,high,blocker,manage_closely,PM
 ST-04,Студенти-учасники сесій,кафедра управління проєктами й Agile,high,low,supporter,keep_informed,BA
 ST-05,Інша кафедра-спостерігач,суміжна кафедра Agile-курсів,high,low,neutral,keep_informed,PM
+ST-06,PM (я),команда проєкту,high,high,supporter,manage_closely,PM
+ST-07,BA (бізнес-аналітик),команда проєкту,high,low,supporter,keep_informed,PM
+ST-08,Dev (розробник),команда проєкту,high,high,supporter,manage_closely,PM
+ST-09,QA (інженер з якості),команда проєкту,high,low,supporter,keep_informed,PM
+ST-10,Спонсор проєкту,"керівництво академії, що фінансує проєкт",low,high,supporter,keep_satisfied,PM
