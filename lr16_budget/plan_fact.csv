@@ -1,1 +1,3 @@
 sprint,planned_points,actual_points,planned_cost_per_point,actual_cost_per_point,variance_pct,source_file,note
+1,20,3,6915.0,46100.0,566.67,lr09_forecast/velocity.csv,"Історії 13 днів стояли в Ready і пішли в роботу лише в останні два дні спринта, S-01 заблокована з 2026-10-19, а S-11 не пройшла критерій 3"
+2,20,6,6915.0,23050.0,233.33,lr09_forecast/velocity.csv,"Спринт тривав 3 дні замість 14 через пізній старт спринта 1, тож повна двотижнева вартість лягла на три дні роботи"

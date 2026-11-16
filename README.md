@@ -16,8 +16,8 @@
 | Варіант вхідних умов | V11 |
 | Трекер | [GitHub Projects: беклог і спринти](https://github.com/users/DavydShmyhelskyi/projects/3) |
 | Дошка | [GitHub Projects: дошка роботи над курсом (ЛР4)](https://github.com/users/DavydShmyhelskyi/projects/4) |
-| Валюта проєкту | |
-| Contingency, % | |
+| Валюта проєкту | гривня (грн) |
+| Contingency, % | 6 |
 
 ## Як влаштований репозиторій
 
